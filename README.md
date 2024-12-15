@@ -24,7 +24,7 @@
 
 ### Projects
 
-#### Data Analysis
+#### Data Analysis WHY IS THIS NOT SHOWING?
 
 [Analysis of NYPD Shooting Dataset](https://github.com/joja4479/NYPDShootingAnalysis)
 
