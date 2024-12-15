@@ -24,6 +24,10 @@
 
 ### Projects
 
+#### Data Analysis
+
+[Analysis of NYPD Shooting Dataset](https://github.com/joja4479/NYPDShootingAnalysis)
+
 #### Image Classification:
 
 [Pneumonia Detection](https://github.com/joja4479/Pneumonia-detection)
