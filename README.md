@@ -9,16 +9,16 @@
 
 ### Work Experience
 #### MiTek
-** Technical Support, Tier 3 (_ Oct 2016 - Current _)  **
+** Technical Support, Tier 3 (_Oct 2016 - Present_)  **
 - Provided technical support
 
 #### Xpeders
-** Junior Web Developer (_Feb 2016 - Oct 2016 _)**
+** Junior Web Developer (_Feb 2016 - Oct 2016_)**
 - Built the website for startup Xpeders
 
 
 #### Oregon Social Learning Center
-**Research Assistant (_Jan 2011 - Feb 2016 _) **
+**Research Assistant (_Jan 2011 - Feb 2016_) **
 - Data Entry, EEG and EKG data collection
 
 
