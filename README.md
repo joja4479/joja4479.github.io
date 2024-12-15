@@ -1,4 +1,4 @@
-# Aspiring Data Scientist
+# Data Scientist
 
 #### Technical Skills: Python, R, SQL
 
