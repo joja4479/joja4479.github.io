@@ -29,9 +29,10 @@
 ##### Pneumonia Detection
 
 ##### Histopathologic Cancer Detection
+[Histopathologic Cancer Detection](https://github.com/joja4479/Histopathologic-Cancer-Detection)
 
 #### Natural Language Processing
 
-##### Disaster Tweet Classification
+##### [Disaster Tweet Classification](https://github.com/joja4479/NLP-Disaster-Tweets)
 
 
