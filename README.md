@@ -18,7 +18,7 @@ Junior Web Developer \
 Feb. 2016 - Oct. 2016
 
 #### Oregon Social Learning Center
-Research Assistant
+Research Assistant\
 Jan. 2011 - Feb. 2016
 
 ### Projects
