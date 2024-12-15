@@ -1,25 +1,26 @@
 # Aspiring Data Scientist
 
-### Education
-University of Oregon\
-B.S. Psychology, 2011\
-Post-Bacc Math and Computer Science, 2015-2016
+#### Technical Skills: Python, R, SQL
 
-University of Colorado\
-M.S. Data Science , 2025
+### Education
+- M.S. Data Science | University of Colorado  (_August 2025_)
+- Post-Bacc Math and Computer Science | University of Oregon (_2015-2016_)
+- B.S. Psychology | University of Oregon (_August 2021_)
 
 ### Work Experience
 #### MiTek
-Technical Support, Tier 3 \
-Oct. 2016 - Current 
+** Technical Support, Tier 3 (_ Oct. 2016 - Current _)  **
+- Provided technical support
 
 #### Xpeders
-Junior Web Developer \
-Feb. 2016 - Oct. 2016
+** Junior Web Developer (_Feb. 2016 - Oct. 2016 _)**
+- Built the website for startup Xpeders
+
 
 #### Oregon Social Learning Center
-Research Assistant\
-Jan. 2011 - Feb. 2016
+**Research Assistant (_Jan. 2011 - Feb. 2016 _) **
+- Data Entry, EEG and EKG data collection
+
 
 ### Projects
 
