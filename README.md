@@ -26,12 +26,12 @@
 
 #### Image Classification:
 
-##### [Pneumonia Detection](https://github.com/joja4479/Pneumonia-detection)
+[Pneumonia Detection](https://github.com/joja4479/Pneumonia-detection)
 
-##### [Histopathologic Cancer Detection](https://github.com/joja4479/Histopathologic-Cancer-Detection)
+[Histopathologic Cancer Detection](https://github.com/joja4479/Histopathologic-Cancer-Detection)
 
 #### Natural Language Processing
 
-##### [Disaster Tweet Classification](https://github.com/joja4479/NLP-Disaster-Tweets)
+[Disaster Tweet Classification](https://github.com/joja4479/NLP-Disaster-Tweets)
 
 
