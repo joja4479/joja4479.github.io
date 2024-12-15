@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, R, SQL
+#### Technical Skills: Python, Pandas, Numpy, Scikit Learn, R, SQL
 
 ### Education
 - M.S. Data Science | University of Colorado  (_Aug 2025_)
