@@ -3,22 +3,22 @@
 #### Technical Skills: Python, R, SQL
 
 ### Education
-- M.S. Data Science | University of Colorado  (_August 2025_)
-- Post-Bacc Math and Computer Science | University of Oregon (_2015-2016_)
-- B.S. Psychology | University of Oregon (_August 2021_)
+- M.S. Data Science | University of Colorado  (_Aug 2025_)
+- Post-Bac Math and CS | University of Oregon (_2015-2016_)
+- B.S. Psychology | University of Oregon (_Aug 2021_)
 
 ### Work Experience
 #### MiTek
-** Technical Support, Tier 3 (_ Oct. 2016 - Current _)  **
+** Technical Support, Tier 3 (_ Oct 2016 - Current _)  **
 - Provided technical support
 
 #### Xpeders
-** Junior Web Developer (_Feb. 2016 - Oct. 2016 _)**
+** Junior Web Developer (_Feb 2016 - Oct 2016 _)**
 - Built the website for startup Xpeders
 
 
 #### Oregon Social Learning Center
-**Research Assistant (_Jan. 2011 - Feb. 2016 _) **
+**Research Assistant (_Jan 2011 - Feb 2016 _) **
 - Data Entry, EEG and EKG data collection
 
 
