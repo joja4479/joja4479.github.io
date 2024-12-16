@@ -1,16 +1,16 @@
-# Data Scientist
+# Data Analyst
 
 #### Technical Skills: Python, Pandas, Numpy, Scikit Learn, R, SQL
 
 ### Education
 - M.S. Data Science | University of Colorado  (_Aug 2025_)
-- Post-Bac Math and CS | University of Oregon (_2015-2016_)
+- Post-Bacc Math and CS | University of Oregon (_2015-2016_)
 - B.S. Psychology | University of Oregon (_Aug 2021_)
 
 ### Work Experience
 #### MiTek
 **Technical Support, Tier 3 (_Oct 2016 - Present_)**
-- Provided technical support
+- Provided level 3 technical support, SQL, network troubleshooting, firewall configuration, Windows Server 2008-2019
 
 #### Xpeders
 **Junior Web Developer (_Feb 2016 - Oct 2016_)**
