@@ -1,16 +1,11 @@
 title: jonathan jacobson
 logo: /assets/img/IMG_2491(1).png
 description: Aurora, CO
-  email: "joja4479@colorado.edu"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: joja4479
-  linkedin: https://www.linkedin.com/in/jonathan-jacobson-8919a3291/
 #show_downloads: true
 theme: jekyll-theme-minimal
 
 social-network-links:
   email: "joja4479@colorado.edu"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: joja4479
   linkedin: jonathan-jacobson-8919a3291
 
