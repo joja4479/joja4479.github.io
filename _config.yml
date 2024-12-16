@@ -1,15 +1,9 @@
 title: jonathan jacobson
 logo: /assets/img/IMG_2491(1).png
 description: Aurora, CO
+github_username:  joja4479
+linkedin_username: jonathan-jacobson-8919a3291
+email: "joja4479@colorado.edu"
+
 #show_downloads: true
 theme: jekyll-theme-minimal
-
-social-network-links:
-  email: "joja4479@colorado.edu"
-  github: joja4479
-  linkedin: jonathan-jacobson-8919a3291
-
-
-share-links-active:
-  linkedin: true
-
