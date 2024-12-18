@@ -8,16 +8,15 @@
 - B.S. Psychology | University of Oregon (_Aug 2021_)
 
 ## Work Experience
-#### MiTek
+#### **MiTek**
 **Technical Support, Tier 3 (_Oct 2016 - Present_)**
-- Provided level 3 technical support, SQL, network troubleshooting, firewall configuration, Windows Server 2008-2019
+- Provided level 3 technical support, writing and deploying SQL scripts to resolve issues caused by software defects and/or human error, network troubleshooting, firewall configuration, Windows Server 2008-2019, working closely with development teams to resolve customer reported defects, attending daily stand-up meetings, 
 
-#### Xpeders
+#### **Xpeders**
 **Junior Web Developer (_Feb 2016 - Oct 2016_)**
-- Built the website for startup Xpeders
+- Assisted in building the website for startup company, HTML, CSS, Javascript
 
-
-#### Oregon Social Learning Center
+#### **Oregon Social Learning Center**
 **Research Assistant (_Jan 2011 - Feb 2016_)**
 - Data Entry, EEG and EKG data collection
 
