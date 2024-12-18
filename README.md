@@ -18,7 +18,7 @@
 
 ### **Oregon Social Learning Center**
 **Research Assistant (_Jan 2011 - Feb 2016_)**
-- Data Entry, EEG and EKG data collection
+- Data Entry, EEG and EKG data collection, administering the KITS battery of assessments, data collection through interviews and assessments
 
 
 ## Projects
