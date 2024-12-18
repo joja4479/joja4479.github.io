@@ -14,7 +14,7 @@
 
 ### **Xpeders**
 **Junior Web Developer (_Feb 2016 - Oct 2016_)**
-- Assisted in building the website for startup company, HTML, CSS, Javascript
+- Assisted in building the website for startup company, HTML, CSS, Javascript, created the login page and integrated Google sign-in
 
 ### **Oregon Social Learning Center**
 **Research Assistant (_Jan 2011 - Feb 2016_)**
