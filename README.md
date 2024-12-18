@@ -27,7 +27,7 @@
 
 **[Analysis of NYPD Shooting Dataset](https://github.com/joja4479/NYPDShootingAnalysis)**
 
-**[Did Steroids Make Baseball More Fun?](https://github.com/joja4479/](https://github.com/joja4479/Do-Steroids-Make-Baseball-More-Fun-)** _(in progress)_
+**[Did Steroids Make Baseball More Fun?](https://github.com/joja4479/Do-Steroids-Make-Baseball-More-Fun-)** _(in progress)_
 
 ### Image Classification:
 
