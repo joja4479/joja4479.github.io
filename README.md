@@ -29,6 +29,8 @@
 
 **[Did Steroids Make Baseball More Fun?](https://github.com/joja4479/Do-Steroids-Make-Baseball-More-Fun-)** _(in progress)_
 
+**[An Analysis of My Personal Spending Habits](https://github.com/joja4479/spending)**
+
 ### Image Classification:
 
 **[Pneumonia Detection](https://github.com/joja4479/Pneumonia-detection)**
