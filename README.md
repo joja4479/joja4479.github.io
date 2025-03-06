@@ -5,12 +5,12 @@
 ## Education
 - M.S. Data Science | University of Colorado  (_Aug 2025_)
 - Post-Bacc Math and CS | University of Oregon (_2015-2016_)
-- B.S. Psychology | University of Oregon (_Aug 2021_)
+- B.S. Psychology | University of Oregon (_Aug 2011_)
 
 ## Work Experience
 ### **MiTek**
 **Technical Support, Tier 3 (_Oct 2016 - Present_)**
-- Provided level 3 technical support, writing and deploying SQL scripts to resolve issues caused by software defects and/or human error, network troubleshooting, firewall configuration, Windows Server 2008-2019, working closely with development teams to resolve customer reported defects, attending daily stand-up meetings, 
+- Provided level 3 technical support, writing and deploying SQL scripts to resolve issues caused by software defects and/or human error, network troubleshooting, firewall configuration, Windows Server 2008-2019, working closely with development teams to resolve customer reported defects, attending daily stand-up meetings, assisted in determining priority level to items in development backlog
 
 ### **Xpeders**
 **Junior Web Developer (_Feb 2016 - Oct 2016_)**
