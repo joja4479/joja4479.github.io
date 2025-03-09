@@ -26,22 +26,63 @@ Python, Pandas, Numpy, Matplotlib, Scikit Learn, R, SQL, Power BI, Tableau
 
 ### Data Analysis
 
-**[Analysis of NYPD Shooting Dataset](https://github.com/joja4479/NYPDShootingAnalysis)**
-
 **[Did Steroids Make Baseball More Fun?](https://github.com/joja4479/Do-Steroids-Make-Baseball-More-Fun-)** _(in progress)_
+**Goal:**  Determine if the steroid era of baseball was more fun from a fan's perspective than the current era of baseball.
+
+**Description:**
+
+**Skills:**
+
+**Technology:**
+
+**Results:**
 
 **[An Analysis of My Personal Spending Habits](https://github.com/joja4479/spending)** _(in progress)_
+**Goal:**  
+
+**Description:**
+
+**Skills:**
+
+**Technology:**
+
+**Results:**
 
 **[An Analysis of My Golf Game](https://github.com/joja4479/GolfGameAnalysis/tree/main)** _(in progress)_
+**Goal:**  
+
+**Description:**
+
+**Skills:**
+
+**Technology:**
+
+**Results:**
 
 ### Image Classification:
 
 **[Pneumonia Detection](https://github.com/joja4479/Pneumonia-detection)**
+**Goal:**  
 
-**[Histopathologic Cancer Detection](https://github.com/joja4479/Histopathologic-Cancer-Detection)**
+**Description:**
+
+**Skills:**
+
+**Technology:**
+
+**Results:**
 
 ### Natural Language Processing
 
 **[Disaster Tweet Classification](https://github.com/joja4479/NLP-Disaster-Tweets)**
+**Goal:**  
+
+**Description:**
+
+**Skills:**
+
+**Technology:**
+
+**Results:**
 
 
