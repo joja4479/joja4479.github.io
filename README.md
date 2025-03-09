@@ -29,7 +29,9 @@
 
 **[Did Steroids Make Baseball More Fun?](https://github.com/joja4479/Do-Steroids-Make-Baseball-More-Fun-)** _(in progress)_
 
-**[An Analysis of My Personal Spending Habits](https://github.com/joja4479/spending)**
+**[An Analysis of My Personal Spending Habits](https://github.com/joja4479/spending)** _(in progress)_
+
+**[An Analysis of My Golf Game](https://github.com/joja4479/GolfGameAnalysis/tree/main)** _(in progress)_
 
 ### Image Classification:
 
