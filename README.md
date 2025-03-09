@@ -1,6 +1,6 @@
 # Data Analyst
 
-## Technical Skills 
+### Technical Skills 
 Python, Pandas, Numpy, Matplotlib, Scikit Learn, R, SQL, Power BI, Tableau
 
 ## Education
