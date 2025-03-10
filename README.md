@@ -40,7 +40,7 @@ Python, Pandas, Numpy, Matplotlib, Scikit Learn, R, SQL, Power BI, Tableau
 
 ### **[An Analysis of My Golf Game](https://github.com/joja4479/GolfGameAnalysis/tree/main)** _(in progress)_
 
-**Goal:** Analyse my golf game and determine what I need to practice
+**Goal:** Analyse my golf training sessions and determine what I need to focus my training on
 
 **Description:** I have collected data using a golf launch monitor. The data collected for each shot includes: swing speed, ball speed, launch angle, spin rate, club type, spin axis, carry distance, lateral carry distance, shot shape, among others. The data can be downloaded daily as .csv files which I have imported into a Pandas dataframe. I will then analyse the data to find my average carry distances and compare my yardages to the pros.
 
