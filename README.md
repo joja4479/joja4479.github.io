@@ -36,7 +36,7 @@ Python, Pandas, Numpy, Matplotlib, Scikit Learn, R, SQL, Power BI, Tableau
 
 **Goal:** Analyse my spending habits to assist in creating a budget.
 
-**Description:** In order to create a budget, I am looking at my spending habits over the last two years to determine where I can cut back and save money. The data was downloaded from my bank's website as .csv files which I imported into a Pandas dataframe for analysis.
+**Description:** In order to create a budget, I am looking at my spending habits over the last two years to determine where I can cut back and save money. The data was downloaded from my bank's website as .csv files which I imported into a Pandas dataframe for analysis. I then visualize the data using Tableau to create a dashboard.
 
 **[An Analysis of My Golf Game](https://github.com/joja4479/GolfGameAnalysis/tree/main)** _(in progress)_
 
