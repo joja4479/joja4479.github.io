@@ -24,38 +24,38 @@ Python, Pandas, Numpy, Matplotlib, Scikit Learn, R, SQL, Power BI, Tableau
 
 ## Projects
 
-### Data Analysis
+## Data Analysis and Visualization
 
-**[Did Steroids Make Baseball More Fun?](https://github.com/joja4479/Do-Steroids-Make-Baseball-More-Fun-)** _(in progress)_
+### **[Did Steroids Make Baseball More Fun?](https://github.com/joja4479/Do-Steroids-Make-Baseball-More-Fun-)** _(in progress)_
 
 **Goal:**  Determine if the steroid era of baseball was more fun from a fan's perspective than the current era of baseball.
 
 **Description:** I grew up in the 90's and baseball seemed more fun when I was a kid. With big hitters like Barry Bonds, Sammy Sosa and Ken Griffey Jr. (my favorite player of all time) games were more exciting to watch. Using a dataset downloaded from http://seanlahman.com/, I will attempt to prove that baseball was more fun when steroids were running rampant throughout the league.
 
-**[An Analysis of My Personal Spending Habits](https://github.com/joja4479/spending)** _(in progress)_
+### **[An Analysis of My Personal Spending Habits](https://github.com/joja4479/spending)** _(in progress)_
 
 **Goal:** Analyse my spending habits to assist in creating a budget.
 
 **Description:** In order to create a budget, I am looking at my spending habits over the last two years to determine where I can cut back and save money. The data was downloaded from my bank's website as .csv files which I imported into a Pandas dataframe for analysis. I then visualize the data using Tableau to create a dashboard.
 
-**[An Analysis of My Golf Game](https://github.com/joja4479/GolfGameAnalysis/tree/main)** _(in progress)_
+### **[An Analysis of My Golf Game](https://github.com/joja4479/GolfGameAnalysis/tree/main)** _(in progress)_
 
 **Goal:** Analyse my golf game and determine what I need to practice
 
 **Description:** I have collected data using a golf launch monitor. The data collected for each shot includes: swing speed, ball speed, launch angle, spin rate, club type, spin axis, carry distance, lateral carry distance, shot shape, among others. The data can be downloaded daily as .csv files which I have imported into a Pandas dataframe. I will then analyse the data to find my average carry distances and compare my yardages to the pros.
 
-### Image Classification:
+## Image Classification:
 
-**[Pneumonia Detection](https://github.com/joja4479/Pneumonia-detection)**
+### **[Pneumonia Detection](https://github.com/joja4479/Pneumonia-detection)**
 
 **Goal:** Detect pneumonia in x-ray images
 
 **Description:** Using Keras and tensorflow for image classification
 
 
-### Natural Language Processing
+## Natural Language Processing
 
-**[Disaster Tweet Classification](https://github.com/joja4479/NLP-Disaster-Tweets)**
+### **[Disaster Tweet Classification](https://github.com/joja4479/NLP-Disaster-Tweets)**
 
 **Goal:**  Determine if a tweet is regarding a disaster
 
