@@ -24,7 +24,7 @@ Python, Pandas, Numpy, Matplotlib, Scikit Learn, R, SQL, Power BI, Tableau
 
 ## Projects
 
-## Data Analysis and Visualization
+### Data Analysis and Visualization
 
 ### **[Did Steroids Make Baseball More Fun?](https://github.com/joja4479/Do-Steroids-Make-Baseball-More-Fun-)** _(in progress)_
 
@@ -44,7 +44,7 @@ Python, Pandas, Numpy, Matplotlib, Scikit Learn, R, SQL, Power BI, Tableau
 
 **Description:** I have collected data using a golf launch monitor. The data collected for each shot includes: swing speed, ball speed, launch angle, spin rate, club type, spin axis, carry distance, lateral carry distance, shot shape, among others. The data can be downloaded daily as .csv files which I have imported into a Pandas dataframe. I will then analyse the data to find my average carry distances and compare my yardages to the pros.
 
-## Image Classification:
+### Image Classification:
 
 ### **[Pneumonia Detection](https://github.com/joja4479/Pneumonia-detection)**
 
@@ -53,7 +53,7 @@ Python, Pandas, Numpy, Matplotlib, Scikit Learn, R, SQL, Power BI, Tableau
 **Description:** Using Keras and tensorflow for image classification
 
 
-## Natural Language Processing
+### Natural Language Processing
 
 ### **[Disaster Tweet Classification](https://github.com/joja4479/NLP-Disaster-Tweets)**
 
