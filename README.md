@@ -8,6 +8,9 @@ Python, Pandas, Numpy, Matplotlib, Scikit Learn, R, SQL, Power BI, Tableau
 - Post-Bacc Math and CS | University of Oregon (_2015-2016_)
 - B.S. Psychology | University of Oregon (_Aug 2011_)
 
+## Certifications
+- Data Science Graduate Certificate | University of Colorado (_Mar 2025_)
+
 ## Work Experience
 ### **MiTek**
 **Technical Support, Tier 3 (_Oct 2016 - Present_)**
