@@ -51,9 +51,9 @@ Python, Pandas, Numpy, Matplotlib, Scikit Learn, R, SQL, Power BI, Tableau
 
 ### **[PCB Production simulation](https://github.com/joja4479/PCB_Simulation/tree/main)**
 
-**Goal:**
+**Goal:** Simulate PC Board production fail rate analysis reporting
 
-**Description:**
+**Description:** Server and client side applications written in Java. The client allows users to run a simulation run of the production of 1000 PC boards. The final report is printed at the end of the production run and the results are written to a SQL database.
 
 ### Image Classification:
 
