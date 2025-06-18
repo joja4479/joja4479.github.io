@@ -28,7 +28,8 @@ Detail-oriented data professional with a strong foundation in Python, SQL, data 
 
 ## Work Experience
 ### **MiTek**
-**Technical Support, Tier 3 (_Oct 2016 - Present_)**
+**Technical Support, Tier 3**
+(_Oct 2016 - Present_)
 
 - Wrote and deployed custom SQL scripts to resolve client issues, analyze defect trends, and support data integrity.
 
@@ -41,13 +42,17 @@ Detail-oriented data professional with a strong foundation in Python, SQL, data 
 - Gained exposure to production data pipelines and backend architecture from a support perspective.
 
 ### **Xpeders**
-**Junior Web Developer (_Feb 2016 - Oct 2016_)**
+**Junior Web Developer**
+(_Feb 2016 - Oct 2016_)
+
 - Built front-end components using HTML, CSS, JavaScript, and integrated Google OAuth authentication.
 
 - Collaborated with backend developers on designing user account flows.
 
 ### **Oregon Social Learning Center**
-**Research Assistant (_Jan 2011 - Feb 2016_)**
+**Research Assistant**
+(_Jan 2011 - Feb 2016_)
+
 - Collected and cleaned data (EKG, EEG, and interview data) for behavioral studies.
 
 - Administered structured assessments and contributed to data preprocessing and entry workflows.
