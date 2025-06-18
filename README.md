@@ -89,6 +89,7 @@ Detail-oriented data professional with a strong foundation in Python, SQL, data 
 
 - Designed reusable preprocessing and analysis scripts using Pandas and NumPy.
 
+<!--
 ### **[Did Steroids Make Baseball More Fun?](https://github.com/joja4479/Do-Steroids-Make-Baseball-More-Fun-)** _(in progress)_
 
 **Goal:**  Determine if the steroid era of baseball was more fun from a fan's perspective than the current era of baseball.
@@ -100,3 +101,4 @@ Detail-oriented data professional with a strong foundation in Python, SQL, data 
 **Goal:** Analyse my spending habits to assist in creating a budget.
 
 **Description:** In order to create a budget, I am looking at my spending habits over the last two years to determine where I can cut back and save money. The data was downloaded from my bank's website as .csv files which I imported into a Pandas dataframe for analysis. I then visualize the data using Tableau to create a dashboard.
+-->
