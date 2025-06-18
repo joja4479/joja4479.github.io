@@ -81,7 +81,7 @@ Detail-oriented data professional with a strong foundation in Python, SQL, data 
 
 - Packaged client and server as independent Maven modules with clean separation of concerns and reusable simulation components.
 
-### **[Golf Shot Data Analysis Pipeline — Python, Pandas, NumPy, Matplotlib, Scikit-learn, Web Scraping](https://github.com/joja4479/GolfGameAnalysis/tree/main)** _(in progress)_
+### **[Golf Shot Data Analysis Pipeline — Python, Pandas, NumPy, Matplotlib, Scikit-learn, Web Scraping](https://github.com/joja4479/GolfGameAnalysis/tree/main)** 
 
 **Goal:** Analyse my golf training sessions and determine what I need to focus my training on
 
