@@ -4,7 +4,7 @@
 
 Detail-oriented data professional with a strong foundation in Python, SQL, data pipelines, and cloud platforms. Experienced in technical support with direct involvement in root-cause analysis using SQL, and a background in web development and research. Pursuing an M.S. in Data Science with a focus on data engineering, cloud computing, and large-scale data processing.
 
-### Technical Skills 
+## Technical Skills 
 **Languages & Libraries:** Python, Java, SQL, Pandas, NumPy, Matplotlib, Scikit-learn, R
 
 **Data Tools:** Power BI, Tableau, Excel, Microsoft SQL Server
