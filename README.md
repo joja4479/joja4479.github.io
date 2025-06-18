@@ -29,17 +29,16 @@ Detail-oriented data professional with a strong foundation in Python, SQL, data 
 ## Work Experience
 ### **MiTek**
 **Technical Support, Tier 3 (_Oct 2016 - Present_)**
-Oct 2016 – Present | Remote or City, State
 
-    - Wrote and deployed custom SQL scripts to resolve client issues, analyze defect trends, and support data integrity.
+- Wrote and deployed custom SQL scripts to resolve client issues, analyze defect trends, and support data integrity.
 
-    - Collaborated with developers in Agile stand-ups to triage and prioritize customer-reported bugs.
+- Collaborated with developers in Agile stand-ups to triage and prioritize customer-reported bugs.
 
-    - Conducted troubleshooting for Windows Server environments (2008–2019), network, and firewall configurations.
+- Conducted troubleshooting for Windows Server environments (2008–2019), network, and firewall configurations.
 
-    - Automated manual ticket triage tasks, reducing response time for common defect reports.
+- Automated manual ticket triage tasks, reducing response time for common defect reports.
 
-    - Gained exposure to production data pipelines and backend architecture from a support perspective.
+- Gained exposure to production data pipelines and backend architecture from a support perspective.
 
 ### **Xpeders**
 **Junior Web Developer (_Feb 2016 - Oct 2016_)**
