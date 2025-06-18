@@ -85,28 +85,23 @@ Detail-oriented data professional with a strong foundation in Python, SQL, data 
 
 ### Object Oriented Programming:
 
-### **[PCB Production simulation](https://github.com/joja4479/PCB_Simulation/tree/main)**
+### **[PCB Assembly Line Simulation — Java, Spring Boot, REST, SQLite](https://github.com/joja4479/PCB_Simulation/tree/main)**
 
 **Goal:** Simulate PC Board production fail rate analysis reporting using various Object Oriented programming strategies.
 
-**Description:** Server and client side applications written in Java. The client allows users to run a simulation run of the production of 1000 PC boards. The final report is printed at the end of the production run and the results are written to a SQL database. The program uses the strategy and factory patterns of object oriented programming.
+**Description:**
 
-### Image Classification:
+    - Developed a modular Java-based simulation of a PCB assembly line using object-oriented design patterns (Strategy, Dependency Injection, REST Controller).
 
-### **[Pneumonia Detection](https://github.com/joja4479/Pneumonia-detection)**
+    - Built a Spring Boot server to run simulations for multiple PCB types (Sensor, Gateway, Test) with configurable defect and station failure rates.
 
-**Goal:** Detect pneumonia in x-ray images
+    - Integrated a RESTful API for a decoupled Java client to trigger simulations and retrieve JSON-formatted reports.
 
-**Description:** Using Keras and tensorflow for image classification
+    - Implemented SQLite database persistence using JPA to store and retrieve simulation results via a /results endpoint.
 
+    - Serialized simulation reports with Gson and used custom controller logic to handle both GET and POST requests.
 
-### Natural Language Processing
-
-### **[Disaster Tweet Classification](https://github.com/joja4479/NLP-Disaster-Tweets)**
-
-**Goal:**  Determine if a tweet is regarding a disaster
-
-**Description:** Using NLP methods for text classification
+    - Packaged client and server as independent Maven modules with clean separation of concerns and reusable simulation components.
 
 
 
