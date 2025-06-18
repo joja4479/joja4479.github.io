@@ -47,6 +47,14 @@ Python, Pandas, Numpy, Matplotlib, Scikit Learn, R, SQL, Power BI, Tableau
 
 **Description:** I have collected data using a golf launch monitor. The data collected for each shot includes: swing speed, ball speed, launch angle, spin rate, club type, spin axis, carry distance, lateral carry distance, shot shape, among others. The data can be downloaded daily as .csv files which I have imported into a Pandas dataframe. I will then analyse the data to find my average carry distances and compare my yardages to the pros.
 
+### Object Oriented Programming (Java)
+
+### **[PCB Production simulation](https://github.com/joja4479/PCB_Simulation/tree/main)**
+
+**Goal:**
+
+**Description:**
+
 ### Image Classification:
 
 ### **[Pneumonia Detection](https://github.com/joja4479/Pneumonia-detection)**
