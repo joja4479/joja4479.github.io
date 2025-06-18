@@ -1,7 +1,7 @@
 # Data Analyst
 
 ### Technical Skills 
-Python, Pandas, Numpy, Matplotlib, Scikit Learn, R, SQL, Power BI, Tableau
+Python, Java, Pandas, Numpy, Matplotlib, Scikit Learn, R, SQL, Power BI, Tableau
 
 ## Education
 - M.S. Data Science | University of Colorado  (_Aug 2025_)
