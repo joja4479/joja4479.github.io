@@ -29,15 +29,29 @@ Detail-oriented data professional with a strong foundation in Python, SQL, data 
 ## Work Experience
 ### **MiTek**
 **Technical Support, Tier 3 (_Oct 2016 - Present_)**
-- Provided level 3 technical support, writing and deploying SQL scripts to resolve issues caused by software defects and/or human error, network troubleshooting, firewall configuration, Windows Server 2008-2019, working closely with development teams to resolve customer reported defects, attending daily stand-up meetings with the development team, assisted in determining priority level to items in development backlog
+Oct 2016 – Present | Remote or City, State
+
+    - Wrote and deployed custom SQL scripts to resolve client issues, analyze defect trends, and support data integrity.
+
+    - Collaborated with developers in Agile stand-ups to triage and prioritize customer-reported bugs.
+
+    - Conducted troubleshooting for Windows Server environments (2008–2019), network, and firewall configurations.
+
+    - Automated manual ticket triage tasks, reducing response time for common defect reports.
+
+    - Gained exposure to production data pipelines and backend architecture from a support perspective.
 
 ### **Xpeders**
 **Junior Web Developer (_Feb 2016 - Oct 2016_)**
-- Assisted in building the website for startup company, HTML, CSS, Javascript, created the login page and integrated Google sign-in
+- Built front-end components using HTML, CSS, JavaScript, and integrated Google OAuth authentication.
+
+- Collaborated with backend developers on designing user account flows.
 
 ### **Oregon Social Learning Center**
 **Research Assistant (_Jan 2011 - Feb 2016_)**
-- Data Entry, EEG and EKG data collection, administering the KITS battery of assessments, data collection through interviews and assessments
+- Collected and cleaned data (EKG, EEG, and interview data) for behavioral studies.
+
+- Administered structured assessments and contributed to data preprocessing and entry workflows.
 
 
 ## Projects
