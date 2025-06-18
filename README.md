@@ -1,4 +1,4 @@
-# Data Analyst
+# Data Engineer
 
 ### Technical Skills 
 Python, Java, Pandas, Numpy, Matplotlib, Scikit Learn, R, SQL, Power BI, Tableau
