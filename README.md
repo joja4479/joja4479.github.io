@@ -1,7 +1,7 @@
 # Data Engineer
 
 ### Technical Skills 
-Python, Java, Pandas, Numpy, Matplotlib, Scikit Learn, R, SQL, Power BI, Tableau
+Python, Java, Pandas, Numpy, Matplotlib, Scikit Learn, R, SQL, Power BI, Tableau, Excel, Word, PowerPoint
 
 ## Education
 - M.S. Data Science | University of Colorado  (_Aug 2025_)
