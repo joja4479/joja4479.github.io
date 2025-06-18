@@ -65,10 +65,6 @@ Detail-oriented data professional with a strong foundation in Python, SQL, data 
 
 ### **[PCB Assembly Line Simulation — Java, Spring Boot, REST, SQLite](https://github.com/joja4479/PCB_Simulation/tree/main)**
 
-**Goal:** Simulate PC Board production fail rate analysis reporting using various Object Oriented programming strategies.
-
-**Description:**
-
 - Developed a modular Java-based simulation of a PCB assembly line using object-oriented design patterns (Strategy, Dependency Injection, REST Controller).
 
 - Built a Spring Boot server to run simulations for multiple PCB types (Sensor, Gateway, Test) with configurable defect and station failure rates.
@@ -82,10 +78,6 @@ Detail-oriented data professional with a strong foundation in Python, SQL, data 
 - Packaged client and server as independent Maven modules with clean separation of concerns and reusable simulation components.
 
 ### **[Golf Shot Data Analysis Pipeline — Python, Pandas, NumPy, Matplotlib, Scikit-learn, Web Scraping](https://github.com/joja4479/GolfGameAnalysis/tree/main)** 
-
-**Goal:** Analyse my golf training sessions and determine what I need to focus my training on
-
-**Description:** 
 
 - Built a personal data pipeline to ingest and process daily CSV exports from a golf launch monitor.
 
