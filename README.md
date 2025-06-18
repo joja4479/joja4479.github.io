@@ -14,7 +14,7 @@ Python, Java, Pandas, Numpy, Matplotlib, Scikit Learn, R, SQL, Power BI, Tableau
 ## Work Experience
 ### **MiTek**
 **Technical Support, Tier 3 (_Oct 2016 - Present_)**
-- Provided level 3 technical support, writing and deploying SQL scripts to resolve issues caused by software defects and/or human error, network troubleshooting, firewall configuration, Windows Server 2008-2019, working closely with development teams to resolve customer reported defects, attending daily stand-up meetings, assisted in determining priority level to items in development backlog
+- Provided level 3 technical support, writing and deploying SQL scripts to resolve issues caused by software defects and/or human error, network troubleshooting, firewall configuration, Windows Server 2008-2019, working closely with development teams to resolve customer reported defects, attending daily stand-up meetings with the development team, assisted in determining priority level to items in development backlog
 
 ### **Xpeders**
 **Junior Web Developer (_Feb 2016 - Oct 2016_)**
