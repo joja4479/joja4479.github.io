@@ -13,7 +13,7 @@ Detail-oriented data professional with a strong foundation in Python, SQL, data 
 
 **Cloud & Platforms:** Microsoft Azure, Windows Server, Salesforce
 
-**Concepts:** ETL Pipelines, Data Modeling, Data Preprocessing, Data Visualization
+**Concepts:** ETL Pipelines, Data Modeling, Data Preprocessing, Data Visualization, Object Oriented Programming
 
 **Other:** Git, REST APIs, JIRA, Agile, PowerPoint, Word
 
