@@ -47,13 +47,13 @@ Python, Java, Pandas, Numpy, Matplotlib, Scikit Learn, R, SQL, Power BI, Tableau
 
 **Description:** I have collected data using a golf launch monitor. The data collected for each shot includes: swing speed, ball speed, launch angle, spin rate, club type, spin axis, carry distance, lateral carry distance, shot shape, among others. The data can be downloaded daily as .csv files which I have imported into a Pandas dataframe. I will then analyse the data to find my average carry distances and compare my yardages to the pros.
 
-### Object Oriented Programming (Java)
+### Object Oriented Programming:
 
 ### **[PCB Production simulation](https://github.com/joja4479/PCB_Simulation/tree/main)**
 
-**Goal:** Simulate PC Board production fail rate analysis reporting
+**Goal:** Simulate PC Board production fail rate analysis reporting using various Object Oriented programming strategies.
 
-**Description:** Server and client side applications written in Java. The client allows users to run a simulation run of the production of 1000 PC boards. The final report is printed at the end of the production run and the results are written to a SQL database.
+**Description:** Server and client side applications written in Java. The client allows users to run a simulation run of the production of 1000 PC boards. The final report is printed at the end of the production run and the results are written to a SQL database. The program uses the strategy and factory patterns of object oriented programming.
 
 ### Image Classification:
 
