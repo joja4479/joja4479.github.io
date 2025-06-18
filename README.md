@@ -91,17 +91,17 @@ Detail-oriented data professional with a strong foundation in Python, SQL, data 
 
 **Description:**
 
-    - Developed a modular Java-based simulation of a PCB assembly line using object-oriented design patterns (Strategy, Dependency Injection, REST Controller).
+- Developed a modular Java-based simulation of a PCB assembly line using object-oriented design patterns (Strategy, Dependency Injection, REST Controller).
 
-    - Built a Spring Boot server to run simulations for multiple PCB types (Sensor, Gateway, Test) with configurable defect and station failure rates.
+- Built a Spring Boot server to run simulations for multiple PCB types (Sensor, Gateway, Test) with configurable defect and station failure rates.
 
-    - Integrated a RESTful API for a decoupled Java client to trigger simulations and retrieve JSON-formatted reports.
+- Integrated a RESTful API for a decoupled Java client to trigger simulations and retrieve JSON-formatted reports.
 
-    - Implemented SQLite database persistence using JPA to store and retrieve simulation results via a /results endpoint.
+- Implemented SQLite database persistence using JPA to store and retrieve simulation results via a /results endpoint.
 
-    - Serialized simulation reports with Gson and used custom controller logic to handle both GET and POST requests.
+- Serialized simulation reports with Gson and used custom controller logic to handle both GET and POST requests.
 
-    - Packaged client and server as independent Maven modules with clean separation of concerns and reusable simulation components.
+- Packaged client and server as independent Maven modules with clean separation of concerns and reusable simulation components.
 
 
 
