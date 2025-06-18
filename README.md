@@ -42,6 +42,8 @@ Detail-oriented data professional with a strong foundation in Python, SQL, data 
 
 - Gained exposure to production data pipelines and backend architecture from a support perspective.
 
+---
+
 ### **Xpeders**
 **Junior Web Developer**
 
@@ -50,6 +52,8 @@ Detail-oriented data professional with a strong foundation in Python, SQL, data 
 - Built front-end components using HTML, CSS, JavaScript, and integrated Google OAuth authentication.
 
 - Collaborated with backend developers on designing user account flows.
+
+---
 
 ### **Oregon Social Learning Center**
 **Research Assistant**
@@ -76,6 +80,8 @@ Detail-oriented data professional with a strong foundation in Python, SQL, data 
 - Serialized simulation reports with Gson and used custom controller logic to handle both GET and POST requests.
 
 - Packaged client and server as independent Maven modules with clean separation of concerns and reusable simulation components.
+
+---
 
 ### **[Golf Shot Data Analysis Pipeline — Python, Pandas, NumPy, Matplotlib, Scikit-learn, Web Scraping](https://github.com/joja4479/GolfGameAnalysis/tree/main)** 
 
