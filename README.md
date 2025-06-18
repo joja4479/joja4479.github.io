@@ -21,7 +21,9 @@ Detail-oriented data professional with a strong foundation in Python, SQL, data 
 - M.S. Data Science | University of Colorado  (_Aug 2025_)
 - Post-Bacc Math and CS | University of Oregon (_2015-2016_)
 - B.S. Psychology | University of Oregon (_Aug 2011_)
+  
 **Certifications**
+
 - Data Science Graduate Certificate | University of Colorado (_Mar 2025_)
 
 ## Work Experience
