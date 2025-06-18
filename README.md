@@ -1,14 +1,22 @@
-# Data Engineer
+# Data Engineer (Aspiring)
+
+### Professional Summary
+
+Detail-oriented data professional with a strong foundation in Python, SQL, data pipelines, and cloud platforms. Experienced in technical support with direct involvement in root-cause analysis using SQL, and a background in web development and research. Pursuing an M.S. in Data Science with a focus on data engineering, cloud computing, and large-scale data processing.
 
 ### Technical Skills 
-Python, Java, Pandas, Numpy, Matplotlib, Scikit Learn, R, SQL, Power BI, Tableau, Data Warehousing, Data Analysis, Data Preprocessing, Data Visualization, Excel, Word, PowerPoint, Microsoft Azure, Salesforce Reports and Dashboards, Windows Server
+**Languages & Libraries:** Python, Java, SQL, Pandas, NumPy, Matplotlib, Scikit-learn, R
+**Data Tools:** Power BI, Tableau, Excel, Microsoft SQL Server
+**Databases:** SQL Server, SQLite, Data Warehousing
+**Cloud & Platforms:** Microsoft Azure, Windows Server, Salesforce
+**Concepts:** ETL Pipelines, Data Modeling, Data Preprocessing, Data Visualization
+**Other:** Git, REST APIs, JIRA, Agile, PowerPoint, Word
 
 ## Education
 - M.S. Data Science | University of Colorado  (_Aug 2025_)
 - Post-Bacc Math and CS | University of Oregon (_2015-2016_)
 - B.S. Psychology | University of Oregon (_Aug 2011_)
-
-## Certifications
+**Certifications**
 - Data Science Graduate Certificate | University of Colorado (_Mar 2025_)
 
 ## Work Experience
