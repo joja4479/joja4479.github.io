@@ -6,10 +6,15 @@ Detail-oriented data professional with a strong foundation in Python, SQL, data 
 
 ### Technical Skills 
 **Languages & Libraries:** Python, Java, SQL, Pandas, NumPy, Matplotlib, Scikit-learn, R
+
 **Data Tools:** Power BI, Tableau, Excel, Microsoft SQL Server
+
 **Databases:** SQL Server, SQLite, Data Warehousing
+
 **Cloud & Platforms:** Microsoft Azure, Windows Server, Salesforce
+
 **Concepts:** ETL Pipelines, Data Modeling, Data Preprocessing, Data Visualization
+
 **Other:** Git, REST APIs, JIRA, Agile, PowerPoint, Word
 
 ## Education
