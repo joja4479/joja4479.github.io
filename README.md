@@ -63,28 +63,6 @@ Detail-oriented data professional with a strong foundation in Python, SQL, data 
 
 ## Projects
 
-### Data Analysis and Visualization
-
-### **[Did Steroids Make Baseball More Fun?](https://github.com/joja4479/Do-Steroids-Make-Baseball-More-Fun-)** _(in progress)_
-
-**Goal:**  Determine if the steroid era of baseball was more fun from a fan's perspective than the current era of baseball.
-
-**Description:** I grew up in the 90's and baseball seemed more fun when I was a kid. With big hitters like Barry Bonds, Sammy Sosa and Ken Griffey Jr. (my favorite player of all time) games were more exciting to watch. Using a dataset downloaded from http://seanlahman.com/, I will attempt to prove that baseball was more fun when steroids were running rampant throughout the league.
-
-### **[An Analysis of My Personal Spending Habits](https://github.com/joja4479/spending)** _(in progress)_
-
-**Goal:** Analyse my spending habits to assist in creating a budget.
-
-**Description:** In order to create a budget, I am looking at my spending habits over the last two years to determine where I can cut back and save money. The data was downloaded from my bank's website as .csv files which I imported into a Pandas dataframe for analysis. I then visualize the data using Tableau to create a dashboard.
-
-### **[An Analysis of My Golf Game](https://github.com/joja4479/GolfGameAnalysis/tree/main)** _(in progress)_
-
-**Goal:** Analyse my golf training sessions and determine what I need to focus my training on
-
-**Description:** I have collected data using a golf launch monitor. The data collected for each shot includes: swing speed, ball speed, launch angle, spin rate, club type, spin axis, carry distance, lateral carry distance, shot shape, among others. The data can be downloaded daily as .csv files which I have imported into a Pandas dataframe. I will then analyse the data to find my average carry distances and compare my yardages to the pros.
-
-### Object Oriented Programming:
-
 ### **[PCB Assembly Line Simulation — Java, Spring Boot, REST, SQLite](https://github.com/joja4479/PCB_Simulation/tree/main)**
 
 **Goal:** Simulate PC Board production fail rate analysis reporting using various Object Oriented programming strategies.
@@ -103,5 +81,30 @@ Detail-oriented data professional with a strong foundation in Python, SQL, data 
 
 - Packaged client and server as independent Maven modules with clean separation of concerns and reusable simulation components.
 
+### **[Golf Shot Data Analysis Pipeline - Python, Pandas, NumPy, Matplotlib, Scikit-learn, Web Scraping](https://github.com/joja4479/GolfGameAnalysis/tree/main)** _(in progress)_
 
+**Goal:** Analyse my golf training sessions and determine what I need to focus my training on
 
+**Description:** 
+
+- Built a personal data pipeline to ingest and process daily CSV exports from a golf launch monitor.
+
+- Cleaned and normalized structured shot-level data including swing speed, spin rate, ball speed, launch angle, club type, and shot shape.
+
+- Performed statistical analysis to compute average carry distances by club and benchmarked against professional standards via scraped reference data.
+
+- Created data visualizations to identify trends and areas for improvement in training (e.g., distance consistency, shot dispersion).
+
+- Designed reusable preprocessing and analysis scripts using Pandas and NumPy.
+
+### **[Did Steroids Make Baseball More Fun?](https://github.com/joja4479/Do-Steroids-Make-Baseball-More-Fun-)** _(in progress)_
+
+**Goal:**  Determine if the steroid era of baseball was more fun from a fan's perspective than the current era of baseball.
+
+**Description:** I grew up in the 90's and baseball seemed more fun when I was a kid. With big hitters like Barry Bonds, Sammy Sosa and Ken Griffey Jr. (my favorite player of all time) games were more exciting to watch. Using a dataset downloaded from http://seanlahman.com/, I will attempt to prove that baseball was more fun when steroids were running rampant throughout the league.
+
+### **[An Analysis of My Personal Spending Habits](https://github.com/joja4479/spending)** _(in progress)_
+
+**Goal:** Analyse my spending habits to assist in creating a budget.
+
+**Description:** In order to create a budget, I am looking at my spending habits over the last two years to determine where I can cut back and save money. The data was downloaded from my bank's website as .csv files which I imported into a Pandas dataframe for analysis. I then visualize the data using Tableau to create a dashboard.
