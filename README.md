@@ -1,4 +1,4 @@
-# Data Engineer (Aspiring)
+# Data Professional
 
 ## Professional Summary
 
